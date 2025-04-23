@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/swift-uzbekistan/static/css/main.a45fe09f.chunk.css",
+    "main.js": "/swift-uzbekistan/static/js/main.f67b9596.chunk.js",
+    "main.js.map": "/swift-uzbekistan/static/js/main.f67b9596.chunk.js.map",
+    "runtime-main.js": "/swift-uzbekistan/static/js/runtime-main.0324fc9c.js",
+    "runtime-main.js.map": "/swift-uzbekistan/static/js/runtime-main.0324fc9c.js.map",
+    "static/js/2.ab3c5c79.chunk.js": "/swift-uzbekistan/static/js/2.ab3c5c79.chunk.js",
+    "static/js/2.ab3c5c79.chunk.js.map": "/swift-uzbekistan/static/js/2.ab3c5c79.chunk.js.map",
+    "static/js/3.8f9afd11.chunk.js": "/swift-uzbekistan/static/js/3.8f9afd11.chunk.js",
+    "static/js/3.8f9afd11.chunk.js.map": "/swift-uzbekistan/static/js/3.8f9afd11.chunk.js.map",
+    "index.html": "/swift-uzbekistan/index.html",
+    "precache-manifest.02f832604ee81a72912c3eba778c7026.js": "/swift-uzbekistan/precache-manifest.02f832604ee81a72912c3eba778c7026.js",
+    "service-worker.js": "/swift-uzbekistan/service-worker.js",
+    "static/css/main.a45fe09f.chunk.css.map": "/swift-uzbekistan/static/css/main.a45fe09f.chunk.css.map",
+    "static/js/2.ab3c5c79.chunk.js.LICENSE.txt": "/swift-uzbekistan/static/js/2.ab3c5c79.chunk.js.LICENSE.txt",
+    "static/media/Swift_logo_color.svg": "/swift-uzbekistan/static/media/Swift_logo_color.da81c9c9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0324fc9c.js",
+    "static/js/2.ab3c5c79.chunk.js",
+    "static/css/main.a45fe09f.chunk.css",
+    "static/js/main.f67b9596.chunk.js"
+  ]
+}
