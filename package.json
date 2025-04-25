@@ -1,7 +1,7 @@
 {
   "name": "swift-uzbekistan-landing",
   "version": "0.1.0",
-  "homepage": "https://swiftuzbekistan.github.io/Swift-Uzbekistan",
+  "homepage": "https://swift-uzbekistan.uz",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
